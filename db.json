@@ -1,36 +1,6 @@
 {
   "books": [
   {
-    "name": "Sleek Fresh Computer",
-    "genre": "Horror",
-    "date": "2020-01-09T11:26:05.203Z",
-    "image": "https://picsum.photos/460/640",
-    "author": {
-      "name": "Jaqueline Konopelski",
-      "gender": "male"
-    }
-  },
-  {
-    "name": "Handmade Soft Bike",
-    "genre": "Mystery",
-    "date": "2019-06-27T13:51:09.549Z",
-    "image": "https://picsum.photos/460/640",
-    "author": {
-      "name": "Isadore Gutmann",
-      "gender": "male"
-    }
-  },
-  {
-    "name": "Incredible Plastic Towels",
-    "genre": "Poetry",
-    "date": "2019-03-05T07:45:50.034Z",
-    "image": "https://picsum.photos/460/640",
-    "author": {
-      "name": "Ms. Kattie Koelpin",
-      "gender": "male"
-    }
-  },
-  {
     "name": "Generic Concrete Pizza",
     "genre": "Satire",
     "date": "2019-07-18T16:47:27.537Z",
