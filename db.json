@@ -1,46 +1,6 @@
 {
   "books": [
   {
-    "name": "Sleek Cotton Computer",
-    "genre": "Fantasy",
-    "date": "2019-07-10T23:59:23.177Z",
-    "image": "https://picsum.photos/460/640",
-    "author": {
-      "name": "Elfrieda Larson",
-      "gender": "male"
-    }
-  },
-  {
-    "name": "Handmade Cotton Bike",
-    "genre": "Horror",
-    "date": "2019-08-12T07:21:22.144Z",
-    "image": "https://picsum.photos/460/640",
-    "author": {
-      "name": "Jaquelin McDermott",
-      "gender": "female"
-    }
-  },
-  {
-    "name": "Tasty Rubber Towels",
-    "genre": "Travel",
-    "date": "2019-02-21T13:29:39.953Z",
-    "image": "https://picsum.photos/460/640",
-    "author": {
-      "name": "Miss Jada Cormier",
-      "gender": "male"
-    }
-  },
-  {
-    "name": "Unbranded Rubber Keyboard",
-    "genre": "Comics",
-    "date": "2019-04-09T21:00:58.761Z",
-    "image": "https://picsum.photos/460/640",
-    "author": {
-      "name": "Peggie Gaylord",
-      "gender": "female"
-    }
-  },
-  {
     "name": "Incredible Steel Keyboard",
     "genre": "History",
     "date": "2019-09-21T09:51:29.258Z",
