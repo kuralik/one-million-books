@@ -1,36 +1,6 @@
 {
   "books": [
   {
-    "name": "Intelligent Plastic Towels",
-    "genre": "Guide",
-    "date": "2019-09-13T08:00:29.998Z",
-    "image": "https://picsum.photos/460/640",
-    "author": {
-      "name": "Jalen Kozey",
-      "gender": "female"
-    }
-  },
-  {
-    "name": "Awesome Granite Cheese",
-    "genre": "Fantasy",
-    "date": "2019-12-12T08:20:21.668Z",
-    "image": "https://picsum.photos/460/640",
-    "author": {
-      "name": "Devin Kerluke",
-      "gender": "female"
-    }
-  },
-  {
-    "name": "Intelligent Soft Salad",
-    "genre": "Mystery",
-    "date": "2019-02-24T05:27:34.385Z",
-    "image": "https://picsum.photos/460/640",
-    "author": {
-      "name": "Braeden Harvey",
-      "gender": "female"
-    }
-  },
-  {
     "name": "Sleek Cotton Computer",
     "genre": "Fantasy",
     "date": "2019-07-10T23:59:23.177Z",
