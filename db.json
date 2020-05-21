@@ -51,46 +51,6 @@
     }
   },
   {
-    "name": "Ergonomic Wooden Pants",
-    "genre": "Drama",
-    "date": "2020-01-15T10:31:10.108Z",
-    "image": "https://picsum.photos/460/640",
-    "author": {
-      "name": "Cory Hettinger MD",
-      "gender": "male"
-    }
-  },
-  {
-    "name": "Fantastic Soft Car",
-    "genre": "Poetry",
-    "date": "2020-02-12T11:19:00.856Z",
-    "image": "https://picsum.photos/460/640",
-    "author": {
-      "name": "Barney O'Conner V",
-      "gender": "male"
-    }
-  },
-  {
-    "name": "Awesome Concrete Towels",
-    "genre": "Comics",
-    "date": "2019-04-22T09:02:00.080Z",
-    "image": "https://picsum.photos/460/640",
-    "author": {
-      "name": "Palma Bednar",
-      "gender": "female"
-    }
-  },
-  {
-    "name": "Tasty Steel Soap",
-    "genre": "Math",
-    "date": "2019-10-18T21:25:57.547Z",
-    "image": "https://picsum.photos/460/640",
-    "author": {
-      "name": "Deron Herman",
-      "gender": "female"
-    }
-  },
-  {
     "name": "Handmade Frozen Ball",
     "genre": "Mystery",
     "date": "2019-05-11T17:07:31.899Z",
