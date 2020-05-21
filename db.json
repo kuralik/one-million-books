@@ -1,56 +1,6 @@
 {
   "books": [
   {
-    "name": "Ergonomic Cotton Fish",
-    "genre": "Romance",
-    "date": "2019-12-06T04:39:17.646Z",
-    "image": "https://picsum.photos/460/640",
-    "author": {
-      "name": "Salma Bode",
-      "gender": "female"
-    }
-  },
-  {
-    "name": "Refined Wooden Chair",
-    "genre": "Satire",
-    "date": "2019-08-29T09:46:28.084Z",
-    "image": "https://picsum.photos/460/640",
-    "author": {
-      "name": "Idell Christiansen",
-      "gender": "female"
-    }
-  },
-  {
-    "name": "Handcrafted Soft Shoes",
-    "genre": "Romance",
-    "date": "2019-07-06T09:51:37.222Z",
-    "image": "https://picsum.photos/460/640",
-    "author": {
-      "name": "Xzavier Treutel",
-      "gender": "female"
-    }
-  },
-  {
-    "name": "Practical Granite Pizza",
-    "genre": "Guide",
-    "date": "2019-10-17T22:01:52.188Z",
-    "image": "https://picsum.photos/460/640",
-    "author": {
-      "name": "Luis Wehner",
-      "gender": "male"
-    }
-  },
-  {
-    "name": "Unbranded Steel Ball",
-    "genre": "History",
-    "date": "2019-02-26T23:05:31.576Z",
-    "image": "https://picsum.photos/460/640",
-    "author": {
-      "name": "Lisandro Gutmann",
-      "gender": "male"
-    }
-  },
-  {
     "name": "Tasty Soft Mouse",
     "genre": "Guide",
     "date": "2019-12-16T02:29:03.013Z",
