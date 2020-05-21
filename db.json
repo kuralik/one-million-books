@@ -1,46 +1,6 @@
 {
   "books": [
   {
-    "name": "Handmade Cotton Car",
-    "genre": "Art",
-    "date": "2019-06-26T16:50:47.095Z",
-    "image": "https://picsum.photos/460/640",
-    "author": {
-      "name": "Miss Jackie Gutkowski",
-      "gender": "female"
-    }
-  },
-  {
-    "name": "Intelligent Plastic Bike",
-    "genre": "Travel",
-    "date": "2019-07-26T03:47:08.954Z",
-    "image": "https://picsum.photos/460/640",
-    "author": {
-      "name": "Clovis Hermiston",
-      "gender": "female"
-    }
-  },
-  {
-    "name": "Gorgeous Cotton Chips",
-    "genre": "Comics",
-    "date": "2019-10-20T22:34:46.043Z",
-    "image": "https://picsum.photos/460/640",
-    "author": {
-      "name": "Madaline Dach",
-      "gender": "female"
-    }
-  },
-  {
-    "name": "Small Granite Hat",
-    "genre": "Satire",
-    "date": "2019-11-05T23:24:29.903Z",
-    "image": "https://picsum.photos/460/640",
-    "author": {
-      "name": "Darby Kassulke",
-      "gender": "female"
-    }
-  },
-  {
     "name": "Sleek Fresh Computer",
     "genre": "Horror",
     "date": "2020-01-09T11:26:05.203Z",
