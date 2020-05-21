@@ -1,46 +1,6 @@
 {
   "books": [
   {
-    "name": "Generic Concrete Pizza",
-    "genre": "Satire",
-    "date": "2019-07-18T16:47:27.537Z",
-    "image": "https://picsum.photos/460/640",
-    "author": {
-      "name": "Nathaniel Thompson",
-      "gender": "female"
-    }
-  },
-  {
-    "name": "Unbranded Steel Towels",
-    "genre": "Mystery",
-    "date": "2020-01-07T10:36:23.176Z",
-    "image": "https://picsum.photos/460/640",
-    "author": {
-      "name": "Julianne Medhurst",
-      "gender": "male"
-    }
-  },
-  {
-    "name": "Generic Concrete Table",
-    "genre": "Math",
-    "date": "2019-10-02T03:34:01.674Z",
-    "image": "https://picsum.photos/460/640",
-    "author": {
-      "name": "Gregg Zieme",
-      "gender": "female"
-    }
-  },
-  {
-    "name": "Intelligent Concrete Keyboard",
-    "genre": "Mystery",
-    "date": "2020-01-02T11:01:08.598Z",
-    "image": "https://picsum.photos/460/640",
-    "author": {
-      "name": "Mr. Fanny Larkin",
-      "gender": "female"
-    }
-  },
-  {
     "name": "Practical Soft Bike",
     "genre": "Health",
     "date": "2019-05-11T01:31:41.416Z",
