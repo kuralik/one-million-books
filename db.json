@@ -31,46 +31,6 @@
     }
   },
   {
-    "name": "Intelligent Steel Car",
-    "genre": "Math",
-    "date": "2019-05-30T13:08:15.805Z",
-    "image": "https://picsum.photos/460/640",
-    "author": {
-      "name": "Liliana Gleichner",
-      "gender": "male"
-    }
-  },
-  {
-    "name": "Generic Plastic Chair",
-    "genre": "Fantasy",
-    "date": "2020-01-23T14:54:34.361Z",
-    "image": "https://picsum.photos/460/640",
-    "author": {
-      "name": "Josephine Smitham",
-      "gender": "female"
-    }
-  },
-  {
-    "name": "Fantastic Concrete Towels",
-    "genre": "Horror",
-    "date": "2019-10-31T01:15:15.624Z",
-    "image": "https://picsum.photos/460/640",
-    "author": {
-      "name": "Muriel Effertz",
-      "gender": "male"
-    }
-  },
-  {
-    "name": "Intelligent Concrete Keyboard",
-    "genre": "Fantasy",
-    "date": "2019-12-18T19:04:53.330Z",
-    "image": "https://picsum.photos/460/640",
-    "author": {
-      "name": "Clay Watsica",
-      "gender": "female"
-    }
-  },
-  {
     "name": "Small Granite Hat",
     "genre": "Satire",
     "date": "2019-11-05T23:24:29.903Z",
