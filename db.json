@@ -1,6 +1,7 @@
 {
   "books": [
     {
+      "id": 1,
     "name": "Handmade Cotton Car",
     "genre": "Art",
     "date": "2019-06-26T16:50:47.095Z",
@@ -9,9 +10,9 @@
       "name": "Miss Jackie Gutkowski",
       "gender": "female"
     }
-      id: 1
   },
   {
+    "id": 2,
     "name": "Intelligent Plastic Bike",
     "genre": "Travel",
     "date": "2019-07-26T03:47:08.954Z",
@@ -19,8 +20,7 @@
     "author": {
       "name": "Clovis Hermiston",
       "gender": "female"
-    },
-    id: 2
+    }
   },
   {
     "name": "Gorgeous Cotton Chips",
@@ -33,6 +33,7 @@
     }
   },
   {
+    "id": 3,
     "name": "Intelligent Steel Car",
     "genre": "Math",
     "date": "2019-05-30T13:08:15.805Z",
@@ -40,8 +41,7 @@
     "author": {
       "name": "Liliana Gleichner",
       "gender": "male"
-    },
-    id: 3
+    }
   },
   {
     "name": "Generic Plastic Chair",
