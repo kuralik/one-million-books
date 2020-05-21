@@ -1,56 +1,6 @@
 {
   "books": [
   {
-    "name": "Tasty Soft Mouse",
-    "genre": "Guide",
-    "date": "2019-12-16T02:29:03.013Z",
-    "image": "https://picsum.photos/460/640",
-    "author": {
-      "name": "Earl Treutel",
-      "gender": "male"
-    }
-  },
-  {
-    "name": "Awesome Wooden Bacon",
-    "genre": "Satire",
-    "date": "2019-10-30T04:04:59.752Z",
-    "image": "https://picsum.photos/460/640",
-    "author": {
-      "name": "Savanah Casper",
-      "gender": "female"
-    }
-  },
-  {
-    "name": "Incredible Metal Mouse",
-    "genre": "Horror",
-    "date": "2019-10-31T12:33:04.723Z",
-    "image": "https://picsum.photos/460/640",
-    "author": {
-      "name": "Heaven Koepp",
-      "gender": "male"
-    }
-  },
-  {
-    "name": "Tasty Wooden Bike",
-    "genre": "Romance",
-    "date": "2019-11-22T23:06:54.817Z",
-    "image": "https://picsum.photos/460/640",
-    "author": {
-      "name": "Liliane Leannon",
-      "gender": "female"
-    }
-  },
-  {
-    "name": "Small Cotton Shoes",
-    "genre": "Art",
-    "date": "2019-04-30T23:24:47.419Z",
-    "image": "https://picsum.photos/460/640",
-    "author": {
-      "name": "Carson Brakus",
-      "gender": "female"
-    }
-  },
-  {
     "name": "Intelligent Plastic Towels",
     "genre": "Guide",
     "date": "2019-09-13T08:00:29.998Z",
