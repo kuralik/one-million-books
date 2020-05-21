@@ -11,56 +11,6 @@
     }
   },
   {
-    "name": "Incredible Cotton Mouse",
-    "genre": "Drama",
-    "date": "2019-12-10T16:35:01.954Z",
-    "image": "https://picsum.photos/460/640",
-    "author": {
-      "name": "Effie Anderson",
-      "gender": "male"
-    }
-  },
-  {
-    "name": "Rustic Cotton Tuna",
-    "genre": "Fantasy",
-    "date": "2019-08-03T03:20:32.346Z",
-    "image": "https://picsum.photos/460/640",
-    "author": {
-      "name": "Nelson Harris",
-      "gender": "male"
-    }
-  },
-  {
-    "name": "Intelligent Steel Towels",
-    "genre": "Fantasy",
-    "date": "2019-04-03T07:25:00.269Z",
-    "image": "https://picsum.photos/460/640",
-    "author": {
-      "name": "Marian Stanton",
-      "gender": "male"
-    }
-  },
-  {
-    "name": "Licensed Frozen Chicken",
-    "genre": "Math",
-    "date": "2019-02-20T13:16:59.552Z",
-    "image": "https://picsum.photos/460/640",
-    "author": {
-      "name": "Maximilian Botsford",
-      "gender": "female"
-    }
-  },
-  {
-    "name": "Fantastic Soft Table",
-    "genre": "Romance",
-    "date": "2019-05-13T10:02:29.940Z",
-    "image": "https://picsum.photos/460/640",
-    "author": {
-      "name": "Mrs. Deshaun Stamm",
-      "gender": "male"
-    }
-  },
-  {
     "name": "Handmade Cotton Bike",
     "genre": "Horror",
     "date": "2019-08-12T07:21:22.144Z",
