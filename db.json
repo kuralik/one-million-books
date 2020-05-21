@@ -1,46 +1,6 @@
 {
   "books": [
   {
-    "name": "Practical Soft Bike",
-    "genre": "Health",
-    "date": "2019-05-11T01:31:41.416Z",
-    "image": "https://picsum.photos/460/640",
-    "author": {
-      "name": "Hollie Ryan",
-      "gender": "female"
-    }
-  },
-  {
-    "name": "Handmade Frozen Ball",
-    "genre": "Mystery",
-    "date": "2019-05-11T17:07:31.899Z",
-    "image": "https://picsum.photos/460/640",
-    "author": {
-      "name": "Noemie Kuvalis",
-      "gender": "male"
-    }
-  },
-  {
-    "name": "Intelligent Metal Towels",
-    "genre": "Poetry",
-    "date": "2019-03-02T22:41:33.735Z",
-    "image": "https://picsum.photos/460/640",
-    "author": {
-      "name": "Dr. Margarette Lindgren",
-      "gender": "female"
-    }
-  },
-  {
-    "name": "Handmade Plastic Pizza",
-    "genre": "Science",
-    "date": "2019-07-23T14:21:06.436Z",
-    "image": "https://picsum.photos/460/640",
-    "author": {
-      "name": "Kory Feest MD",
-      "gender": "male"
-    }
-  },
-  {
     "name": "Ergonomic Cotton Fish",
     "genre": "Romance",
     "date": "2019-12-06T04:39:17.646Z",
